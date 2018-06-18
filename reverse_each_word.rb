@@ -1,8 +1,8 @@
 def reverse_each_word(sentence)
     nuarray = []
-    array.map! do |element|
+    array.map! do |sentence|
       element.reverse
-    end 
+    end
   array.join(" ")
-  end 
+  end
 end
